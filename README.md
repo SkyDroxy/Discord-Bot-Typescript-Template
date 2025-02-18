@@ -32,22 +32,19 @@ Follow these simple steps to get started.
 - npm
 
   ```sh
-  npm install typescript --location=global
-  npm install dotenv --save
+  npm install -g typescript ts-node
   ```
 
 - yarn
   ```sh
   npm install yarn -g
-  yarn global add typescript
-  yarn add dotenv --save
+  yarn global add typescript ts-node
   ```
 
 - pnpm
   ```sh
   npm install -g pnpm
-  pnpm add -g typescript
-  pnpm add dotenv
+  pnpm add -g typescript ts-node
   ```
 
 ### Installation
@@ -68,11 +65,11 @@ Follow these simple steps to get started.
 
    OR
 
-   npm install
+   npm i
 
    OR
 
-   pnpm install
+   pnpm i
    ```
 
 5. Setup environment variables in .env
