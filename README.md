@@ -54,7 +54,7 @@ Follow these simple steps to get started.
    ```sh
    git clone https://github.com/Kalddeon/TypeScript-Discord-Bot-Template.git
    ```
-3. Modifier le package.json
+3. Update package.json
    ```sh
     npm init
    ```
